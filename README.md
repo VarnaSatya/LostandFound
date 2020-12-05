@@ -31,3 +31,28 @@ has reported the said item. If the item has
 been claimed by another person, the poster
 can then remove the submitted item.
 
+myfrontend file:
+
+searching of items:
+featuretiles.js, dropdown.js, nav.js
+
+submitting items:
+submittingItems.js
+
+removing items:
+removingItems.js
+
+signin:
+FirstPage.js
+
+signup:
+signup.js
+
+frontend connector:
+App.js
+
+my backend file:
+
+backend:
+app.js
+
