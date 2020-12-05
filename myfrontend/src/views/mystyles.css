@@ -1,0 +1,44 @@
+.heading {
+  padding: 50px;
+}
+
+.subheading {
+  padding: 10px;
+  align-self: center;
+}
+
+.entering {
+  height: 50px;
+  width: 90%;
+}
+
+.holder {
+  margin: 10px auto;
+  padding: 100px;
+  display: grid;
+  grid-template-columns: repeat(2, 10fr);
+  grid-gap: 2 px;
+}
+
+#placeForError {
+  color: red;
+  padding: 5px;
+}
+
+#placeForSuccess {
+  color: green;
+  padding: 5px;
+}
+
+.back {
+  padding: 20px;
+}
+
+.goBack {
+  padding: 20px;
+  text-align: center;
+}
+
+.toLogin {
+  text-align: right;
+}

@@ -1,0 +1,30 @@
+.apps {
+  padding-left: 50px;
+  padding-top: 15px;
+  padding-bottom: 50px;
+  height: 100%;
+  text-align: center;
+  background-position: center;
+}
+
+.optionss {
+  padding: 3px;
+}
+
+.form-inputs {
+  margin: 5px 0px;
+}
+
+.form-inputs input,
+.form-inputs textarea {
+  width: 50%;
+  line-height: 1.5;
+  border-radius: 0.25rem;
+  border: 1px solid lightgray;
+  padding: 0.375rem 0.75rem;
+  align-items: center;
+}
+
+#emptycond {
+  color: red;
+}

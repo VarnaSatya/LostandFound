@@ -1,0 +1,125 @@
+.rowC {
+  display: grid;
+  grid-template-columns: repeat(5, 10fr);
+  grid-gap: 2 px;
+}
+
+.info {
+  width: 700px;
+  float: left;
+  padding-left: 20px;
+}
+
+.remB {
+  padding: 20px;
+  background-color: black;
+  color: #f2f2f2;
+  border-radius: 5px;
+}
+
+.remB:hover {
+  background-color: darkslategray;
+}
+
+img {
+  height: 20px;
+}
+.photo {
+  height: 50%;
+}
+
+.bigphoto {
+  height: 600px;
+  float: left;
+  padding-left: 100px;
+}
+#info {
+  float: left;
+  padding: 100px;
+}
+
+.heading {
+  padding-left: 50px;
+}
+
+#selecting {
+  height: 550px;
+  padding: 30px;
+  color: white;
+  background-color: SlateBlue;
+  border: 10px solid #161716;
+  border-radius: 2cm;
+}
+
+.nav {
+  position: sticky;
+  z-index: 1;
+  height: 50px;
+  background-color: darkblue;
+}
+
+.o {
+  width: 100%;
+  height: 50px;
+  color: rgb(34, 33, 33);
+  padding: 10px;
+}
+
+.ButtonStuff {
+  padding: 30 px;
+}
+
+.submission {
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 0.2cm;
+}
+
+.topnav {
+  background-color: rgb(112, 105, 116);
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: slateblue;
+  color: white;
+}
+
+/* Right-aligned section inside the top navigation */
+.topnav-right {
+  float: right;
+}
+
+.photo-right {
+  float: right;
+  height: 80%;
+  position: relative;
+  padding-right: 20px;
+  top: 10px;
+}
+
+.cont {
+  padding: 60px;
+}
+
+.itemzoom {
+  padding-bottom: 100px;
+}
